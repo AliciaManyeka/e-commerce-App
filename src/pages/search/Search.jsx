@@ -24,6 +24,9 @@ const Search = () => {
                 <p className="section__subheader">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia necessitatibus, perspiciatis dicta labore iusto voluptate sit sapiente velit commodi architecto.
                 </p>
+                <p className="section__subheader">
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia necessitatibus, perspiciatis dicta labore iusto voluptate sit sapiente velit commodi architecto.
+                </p>
             </section>
 
             <section className="section__container">
