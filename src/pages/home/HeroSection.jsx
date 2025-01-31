@@ -46,7 +46,7 @@ const HeroSection = () => {
                     <div className='hero__content'>
                         <p>{card.trend}</p>
                         <h4>{card.title}</h4>
-                        <a href="#">Discover</a>
+                        <a href="#">Discover more</a>
                     </div>
                 </div>
             ))
